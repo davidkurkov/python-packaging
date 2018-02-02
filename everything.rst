@@ -7,6 +7,7 @@ Our whole package, for reference, looks like this::
         funniest/
             __init__.py
             command_line.py
+            joke.py
             tests/
                 __init__.py
                 test_joke.py
